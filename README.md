@@ -1,16 +1,54 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**stanleyndachi/stanleyndachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open a `Terminal` and run the following command:
 
-Here are some ideas to get you started:
+```sh
+man stanleyndachi
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Output:
+
+```cpp
+NAME
+  stanleyndachi - a Linux enthusiast
+
+SYNOPSIS
+  stanleyndachi  [--current-projects]
+                 [--interests]
+                 [--programming-languages]
+                 [--tools-and-technologies]
+
+DESCRIPTION
+  Stanley is a tech enthusiast with a deep passion for open-source software,
+  Linux system administration, and building efficient, reliable systems.
+  He is constantly tinkering and experimenting, optimizing performance,
+  automating tasks, working in the terminal, and contributing to projects.
+
+OPTIONS
+  Sorry, short options have not made the cut yet — only long ones are allowed!
+
+  --current-projects
+      Something exciting (stay tuned for updates)
+
+  --interests
+      o Linux and open-source - 70% (primary focus)
+      o Software development - 30% (currently expanding)
+
+  --programming-languages
+      Python, C++, Bash
+
+  --tools-and-technologies
+      Linux, Git, Neovim, Docker
+
+SEE ALSO
+  Repositories Tab
+      <https://github.com/stanleyndachi?tab=repositories>
+
+BUGS
+  If a bug crawls into this README, report it!
+      <https://github.com/stanleyndachi/stanleyndachi/issues>
+
+stanleyndachi 0.0.1-beta             Feb 2026             STANLEYNDACHI(1)
+```
+
+
